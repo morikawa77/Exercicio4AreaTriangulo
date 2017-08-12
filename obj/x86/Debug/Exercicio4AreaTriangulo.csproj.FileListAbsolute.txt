@@ -1,0 +1,5 @@
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercicio4AreaTriangulo/obj/x86/Debug/Exercicio4AreaTriangulo.csproj.CoreCompileInputs.cache
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercicio4AreaTriangulo/bin/Debug/Exercicio4AreaTriangulo.exe
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercicio4AreaTriangulo/bin/Debug/Exercicio4AreaTriangulo.pdb
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercicio4AreaTriangulo/obj/x86/Debug/Exercicio4AreaTriangulo.exe
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercicio4AreaTriangulo/obj/x86/Debug/Exercicio4AreaTriangulo.pdb
